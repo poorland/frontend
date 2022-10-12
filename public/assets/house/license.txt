@@ -1,0 +1,8 @@
+Model Information:
+* title:	VR Art Gallery
+* source:	https://sketchfab.com/3d-models/vr-art-gallery-d73f161720a744aa8ddd223114e9a8fd
+* author:	billyA (https://sketchfab.com/billyA)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

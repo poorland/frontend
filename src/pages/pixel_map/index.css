@@ -1,0 +1,283 @@
+.page-content {
+    position:relative;
+    background-color: #282828;
+    width: calc(100vw);
+    height: 100%;
+}
+
+#map-animation-cover-view {
+    pointer-events: none;
+    position:absolute;
+    z-index: 1000;
+    top: 90px;
+    left: 90px;
+    width: 100;
+    height: 100;
+}
+
+.map-action-group-stack {
+    z-index: 1001;
+    width: 80px;
+}
+
+.page-tab-div {
+    cursor: pointer;
+    margin-top: 22px;
+}
+
+#tugou-pixel-map {
+    background-image: url("../../assets/images/map_bg.png");
+    background-size: cover;
+}
+
+.mini-map-stack {
+    z-index: 1001;
+    position: absolute;
+    top: 90px;
+    left: 90px;
+    width: 250px;
+    height: 200px;
+}
+
+#mini-map {
+    background-color: #282828;
+    width: 200px;
+    height: 200px;
+}
+
+.page-drawer-stack {
+    color: white;
+}
+
+.close-stack {
+    width: 100%;
+}
+
+.close-div {
+    cursor: pointer;
+}
+
+.close-img {
+    width: 14px;
+    height: 14px;
+    margin-top: 19px;
+    margin-right: 19px;
+    margin-bottom: 21px;
+}
+
+.house-image {
+    width: 350px;
+    height: 350px;
+    margin-left: 20px;
+    border-radius: 4px;
+    object-fit: 100% 100%;
+}
+
+.hose-name {
+    font-size: 20px;
+    margin-top: 28px;
+    margin-left: 20px;
+    margin-bottom: 24px;
+}
+
+.hose-name-has-desc {
+    margin-bottom: 5px;
+}
+
+.house-desc {
+    margin-left: 20px;
+    margin-bottom: 24px;
+    margin-right: 20px;
+    font-size: 12px;
+}
+
+.property-icon {
+    margin-left: 20px;
+    margin-right: 6px;
+}
+
+.perperty-icon-location {
+    width: 8px;
+    height: 12px;
+}
+
+.perperty-type-stack {
+    margin-top: 25px;
+}
+
+.perperty-icon-type {
+    width: 14px;
+    height: 12px;
+}
+
+.property-name {
+    color: #999999;
+    font-size: 12px;
+}
+
+.property-name-no-icon {
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.property-value {
+    margin-top: 9px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+.map-button-div {
+    width: 350px;
+    height: 50px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 50px;
+    border-radius: 4px;
+    border: 1px solid #FFFFFF;
+    margin-top: 40px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.build-type-content {
+    background-color: #322b1c;
+    width: 350px;
+    margin-top: 12px;
+    margin-left: 20px;
+    border-radius: 4px;
+}
+
+.build-type-left-right-action {
+    width: 40px;
+    margin-top: 46px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.build-type-left-right-action-img {
+    height: 16px;
+}
+
+.build-type-swipeable-views {
+    width: 270px;
+}
+
+.build-type-image-content-stack {
+    background-color: 'red';
+    padding: 0;
+    margin: 0;
+    height: 330px;
+    color: '#fff';
+}
+
+.build-type-image-content-title {
+    height: 46px;
+    line-height: 46px;
+    font-size: 14px;
+}
+
+.build-type-image-content-img {
+    width: 270;
+    height: 270px;
+    object-fit: contain;
+}
+
+.land-info-dialog-content {
+    background-color: #343025;
+}
+
+.land-info-dialog-title {
+    color: white;
+    font-size: 14px;
+    margin-top: 24px;
+}
+
+.land-info-dialog-stack-row {
+    margin-top: 20px;
+    margin-left: 24px;
+    margin-right: 24px;
+    overflow: hidden;
+    min-height: 40px;
+}
+
+.land-info-dialog-item-title {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    line-height: 40px;
+    width: 42px;
+    margin-right: 28px;
+}
+
+#land-info-diglog-upload-img {
+    width: 360px;
+    height: 360px;
+    border-radius: 4px;
+    cursor: pointer;
+    overflow: hidden;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("../../assets/images/upload_land_image_placeholder.jpg");
+}
+
+#upload-file-input {
+    display: none;
+}
+
+.land-info-dialog-confirm-text {
+    font-size: 14px;
+    color: #333333;
+}
+
+.land-link-tips-dialog-content {
+    background-color: #343025;
+}
+
+.land-link-tips-dialog-title {
+    color: white;
+    font-size: 18px;
+    margin-top: 24px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.land-link-tips-a {
+    color: white;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 24px;
+    cursor: pointer;
+    text-decoration:underline;
+}
+
+.hidden {
+    display: none;
+}
+
+.whitelist-dialog-title {
+    color: white;
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.whitelist-row {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.whitelist-row-title {
+    color: white;
+    font-size: 14px;
+}
+
+.whitelist-tips {
+    margin-top: 20px;
+    color: #eb3223;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}

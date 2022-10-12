@@ -1,0 +1,37 @@
+{
+    "home.section1.p1": "PoorLand是一个致力于让元宇宙每一个人都拥有地产的项目",
+    "home.section1.p2": "包含的四个NFT要素:",
+    "home.section1.p3": "土地，角色，故事，以及PassCard",
+    "home.section2.title": "PoorLand-角色",
+    "home.section2.p1.name": "朱星星",
+    "home.section2.p1.desc1": "PoorLand c-01城市剧名",
+    "home.section2.p1.desc2": "PL-01小队队长",
+    "home.section2.p1.desc3": "负责战斗，和代领团队",
+    "home.section2.p2.name": "ZOE",
+    "home.section2.p2.desc1": "PoorLand c-01城市剧名",
+    "home.section2.p2.desc2": "PL-01小队队长",
+    "home.section2.p2.desc3": "负责战斗，和代领团队",
+    "home.section3.title": "故事",
+    "home.section3.s1": "POORLAND 废土一区",
+    "home.section3.s2": "废土一区由五个城市主要，第一城市PoorLand-01",
+    "home.section3.s3": "除了废土一区五个城市以外，其他均可以由NFT持有者建立",
+    "home.section3.s4": "PoorLand 2046年被生化病毒侵略，在2047年生化病毒弱化，PoorLand居民开始逐步入住到PoorLand-01",
+    "home.section3.s5": "PoorLand-01目前居住人口一万人，其中大多为青年人，出入PoorLand-01需要PoorLand Card作为通行证",
+    "home.section3.s6": "PoorLand-01负责人叫做汪淼",
+    "home.section3.s7": "他组织了自救小队，在城市中慢慢建立着各种设施。目前第一目标就是将废弃大厦作为根据地",
+    "home.section4.title": "PassCard",
+    "home.section4.desc": "PassCard会成为我们PoorLand Dao的身份，会成立之后发展的一个投票权力",
+
+    "tab.home": "HOME",
+    "map.drawer.Type": "Type",
+    "build.whitelist.alert": "目前仅对邀请的用户开放",
+    "build.success.toast": "`Building` 过程需要几分钟时间",
+    "build.transaction.link.text": " 在这里查看交易",
+    "map.link.jump.tips": "您即将跳转到土地持有人定义的链接, 是否继续?",
+
+    "home.p1.connect": "连接钱包",
+    "home.p1.remain": "剩余：",
+    "not connected": "未连接",
+    "Sold out": "售罄"
+
+}

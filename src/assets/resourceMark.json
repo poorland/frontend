@@ -1,0 +1,29 @@
+{
+    "mark": {
+        "11,12": {
+            "isDraw": "ture",
+            "width": 18,
+            "height": 10,
+            "image": "/ipfs/QmS6oiLQVaE1BYohDRDceaLgMLrymcnha1kG3NfqkjHSfy/0.jpg",
+            "buildType": 1
+        },
+        "11,32": {
+            "isDraw": "ture",
+            "locationX": -10,
+            "locationY": 20,
+            "width": 10,
+            "height": 10,
+            "image": "poor_girl.jpeg",
+            "buildType": 0
+        },
+        "22,32": {
+            "isDraw": "ture",
+            "locationX": -10,
+            "locationY": 20,
+            "width": 10,
+            "height": 10,
+            "image": "poor_girl_2.jpeg",
+            "buildType": 0
+        }
+    }
+}

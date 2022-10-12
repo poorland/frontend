@@ -1,0 +1,76 @@
+.claim-page-stack {
+    background-color: #282828;
+    width: calc(100vw);
+    height: 100%;
+    overflow: hidden;
+}
+
+.claim-content-stack {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.claim-action-group-stack {
+    width: 80px;
+    overflow: hidden;
+}
+
+#claim-list-content {
+    overflow: hidden;
+    color: white;
+    width: calc(100vw - 80px);
+    min-height: calc(100vh - 80px);
+}
+
+.claim-list-item {
+    width: calc(70vw);
+    overflow: hidden;
+}
+
+.claim-list-item-last {
+    margin-bottom: 67px;
+}
+
+.claim-list-item-empty {
+    margin-top: calc(30vh);
+}
+
+.claim-list-item-title {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 60px;
+}
+
+.claim-list-item-date {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    margin-top: 16px;
+}
+
+.claim-list-item-desc {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 24px;
+}
+
+.claim-airdrop-build-now {
+    font-size: 14px;
+    margin-top: 12px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.claim-list-item-tips {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    margin-top: 40px;
+}
+
+.claim-list-item-dividing-line {
+    margin-top: 67px;
+    width: 100%;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.2);
+}

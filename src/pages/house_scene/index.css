@@ -1,0 +1,9 @@
+#tugou-house-map {
+    width: calc(100vw);
+    height: calc(100vh);
+}
+
+#loading-stack {
+    width: 100%;
+    height: calc(100vh);
+}
